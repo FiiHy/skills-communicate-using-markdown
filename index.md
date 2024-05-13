@@ -1,5 +1,8 @@
-# This is a png
+# This is a png标题
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)插入图片
+```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
